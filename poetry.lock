@@ -270,7 +270,7 @@ revchatgpt = [
     {file = "revChatGPT-0.0.42.1.tar.gz", hash = "sha256:fd6486cb106eb668524976f1cc6053af5b469b59037b1bc97a80f710b518e3b2"},
 ]
 undetected_chromedriver = [
-    {file = "undetected_chromedriver-3.7.1.tar.gz", hash = ""},
+    {file = "undetected-chromedriver-3.1.7.tar.gz", hash = "sha256:ed159186828092635f2acc4ecdf02835e3d924947546e1aab9f71b3ba5a910b5"},
 ]
 rfc3986 = [
     {file = "rfc3986-1.5.0-py2.py3-none-any.whl", hash = "sha256:a86d6e1f5b1dc238b218b012df0aa79409667bb209e58da56d0b94704e712a97"},
