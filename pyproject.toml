@@ -7,6 +7,7 @@ authors = ["Holegots <fuergaosi@gmail.com>"]
 [tool.poetry.dependencies]
 python = "^3.8"
 revchatgpt = "^0.0.42.1"
+undetected_chromedriver = "^3.1.7"
 [tool.poetry.dev-dependencies]
 
 [build-system]
