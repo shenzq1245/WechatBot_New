@@ -154,10 +154,19 @@ category = "main"
 optional = false
 python-versions = "*"
 
+
 [package.dependencies]
 httpx = {version = "*", extras = ["http2"]}
 OpenAIAuth = ">=0.0.4"
 requests = "*"
+
+[[package]]
+name = "undetected_chromedriver"
+version = "3.1.7"
+description = "undetected_chromedriver"
+category = "main"
+optional = false
+python-versions = "*"
 
 [[package]]
 name = "rfc3986"
@@ -259,6 +268,9 @@ requests = [
 revchatgpt = [
     {file = "revChatGPT-0.0.42.1-py3-none-any.whl", hash = "sha256:f6be496e04b413902d43f00b77e57a79983356aba6acaca83d608f519944c8dc"},
     {file = "revChatGPT-0.0.42.1.tar.gz", hash = "sha256:fd6486cb106eb668524976f1cc6053af5b469b59037b1bc97a80f710b518e3b2"},
+]
+undetected_chromedriver = [
+    {file = "undetected_chromedriver-3.7.1.tar.gz", hash = ""},
 ]
 rfc3986 = [
     {file = "rfc3986-1.5.0-py2.py3-none-any.whl", hash = "sha256:a86d6e1f5b1dc238b218b012df0aa79409667bb209e58da56d0b94704e712a97"},
